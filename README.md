@@ -150,7 +150,7 @@ https://getbootstrap.com/" target="_blank" style="margin-right:3rem; margin-top:
 <a href="LordPrinzs GitHub stats](https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical" target="_blank" style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img src="https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical" alt="LordPrinzs GitHub stats"/>
 </a>
-
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stat" target="_blank" style="margin-right:3rem; text-decoration:none;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical" alt="Top Langs" style=" margin-top:1rem;"/>
 </a>
