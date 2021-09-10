@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! 👋</br>
-  I am Oskar.
-</h1>
+<div align="center"><h1>Hi there! 👋</h1></br>
+  <h2>I am Oskar.</h2>
+</div>
 
 <br/>
 <br/>
