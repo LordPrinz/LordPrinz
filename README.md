@@ -1,6 +1,8 @@
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I am Oskar. </h2>
+<h1 align="center">Hi there! 👋</br>
+  I am Oskar.
+</h1>
 
+<br/>
 <br/>
 
 - 🔭 I’m currently working on <b>getting better at coding</b>
@@ -9,6 +11,7 @@
 - 📫 How to reach me: <b>Simply text me on Discord 
   ><c2>Lord Prinz ™ 🔥#4761</b>
  
+  <br/>
   <br/>
   
   <h3 align="center">Technologies and tools </h3>
