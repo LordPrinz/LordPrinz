@@ -26,7 +26,7 @@
 <br/>
 <h3 align="center">Technologies and tools i <i><b>often</b></i> use : </h3>
 
-  
+  <br/>
 
 <div  style="padding:3rem 3.5rem; border-bottom: 1px solid #21262d;padding-bottom:2rem;">
 
@@ -83,7 +83,7 @@
 <br/>
 <h3 align="center"  style="margin-top:2rem;">Technologies and tools i <b>have worked</b> with : </h3>
 
-  
+  <br/>
 
 <div  style="padding:3rem 3.5rem; border-bottom: 1px solid #21262d;padding-bottom:2rem;">
 <a  href="https://www.figma.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
@@ -140,7 +140,7 @@ https://getbootstrap.com/"  target="_blank"  style="margin-right:3rem; margin-to
   
 <br/>
 <h3 align="center" style="margin-top:2rem;">Technologies I <b>learn</b> at school : </h3>
-
+<br/>
 <div align="center">
 <a  href="https://www.php.net/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png"  alt="PHP"  width="80"  height="50"  />
