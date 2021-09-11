@@ -66,7 +66,7 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"  alt="Adobe Xd"  width="50"  height="50"  />
 </a>
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://ichi.pro/assets/images/max/724/1*OxrVa522YUsNX36ENw6sNw.png"  alt="jest"  width="50"  height="50"  />
+<img  src="https://symbols-electrical.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.png"  alt="jest"  width="50"  height="50"  />
 </a>
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://svgur.com/i/931.svg"  alt="express"  width="50"  height="50"  />
