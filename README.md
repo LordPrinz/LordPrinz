@@ -2,8 +2,7 @@
 
 
 <div align="center">
- <p><font size="10"><b>Hi there! 👋</b></font></p> 
-  <h2>I am <b>Oskar. 🤠<b></h2>
+  <h1>Hi there! 👋 <br/>I am <b>Oskar. 🤠<b></h1>
 <br/>
 
 </div>
