@@ -1,8 +1,9 @@
 
-# Hi there! 👋
+
 
 <div align="center">
-<h2>I am <b>Oskar. 🤠<b></h2>
+ <p><font size="10"><b>Hi there! 👋</b></font></p> 
+  <h2>I am <b>Oskar. 🤠<b></h2>
 <br/>
 
 </div>
