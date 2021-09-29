@@ -98,7 +98,7 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"  alt="Next.js"  width="80"  height="50"  />
 </a>
 <a  href="https://material-ui.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://material-ui.com/static/logo.png"  alt="Material UI"  width="50"  height="50"  />
+<img  src="https://mui.com/static/logo.png"  alt="Material UI"  width="50"  height="50"  />
 </a>
 <a  href="https://reactnative.dev/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="React Native"  width="50"  height="50"  />
