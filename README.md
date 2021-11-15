@@ -67,7 +67,7 @@
 <a  href="https://www.adobe.com/pl/products/xd.html"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"  alt="Adobe Xd"  width="50"  height="50"  />
 </a>
-<a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+<a  href="https://jestjs.io"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"  alt="jest"  width="50"  height="50"  />
 </a>
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
