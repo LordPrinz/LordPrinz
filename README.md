@@ -15,7 +15,7 @@
 - 💬 Ask me about <b>Web development. I hope I can help you 😄 </b>
 
 - 📫 How to reach me: <b>Simply text me on <a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-Discord <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfQYy-TeLTGBRB7-CSsdg_bWGanAFasOqQ-Ewxc9wzO6229ILTpbq9-yldSTf0JMJ7Kk&usqp=CAU" alt="discord"  width="25"  height="25"/>
+Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="40"  height="40"/>
 </a></b>
 
  
