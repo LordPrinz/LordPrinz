@@ -14,11 +14,11 @@
 
 - 💬 Ask me about <b>Web development. I hope I can help you 😄 </b>
 
-- 📫 How to reach me: <b>Simply text me on Discord</b>
+- 📫 How to reach me: <b>Simply text me on <a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+Discord
+</a></b>
 
-  
-
-> Discord tag <b>\<c2>Lord Prinz ™ 🔥#4761</b>
+ 
 
   
 
