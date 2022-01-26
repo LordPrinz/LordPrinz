@@ -86,6 +86,9 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 <h3 align="center"  style="margin-top:2rem;">Technologies and tools i <b>have worked</b> with : </h3>
 
   <br/>
+<a  href="https://www.postgresql.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+  <img  src="https://www.postgresql.org/media/img/about/press/elephant.png"  alt="postgres"  width="50"  height="50"  />
+</a>
 
 <div  style="padding:3rem 3.5rem; border-bottom: 1px solid #21262d;padding-bottom:2rem;">
 <a  href="https://www.figma.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
