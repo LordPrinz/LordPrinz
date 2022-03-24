@@ -158,7 +158,7 @@ https://getbootstrap.com/"  target="_blank"  style="margin-right:3rem; margin-to
 <img  src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"  alt="MySql"  width="80"  height="50"  />
 </a>
   <a  href="https://angular.io/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"  alt="Angular"  width="80"  height="50"  />
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"  alt="Angular"  width="80"  height="50"  />
 </a>
  
 </div>
