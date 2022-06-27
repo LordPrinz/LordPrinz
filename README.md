@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on <b>getting better at coding</b>
 
-- 🌱 I’m currently learning <b>React & React Native</b>
+- 🌱 I’m currently learning <b>React Native</b>
 
 - 💬 Ask me about <b>Web development. I hope I can help you 😄 </b>
 
