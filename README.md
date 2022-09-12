@@ -163,7 +163,6 @@ https://getbootstrap.com/"  target="_blank"  style="margin-right:3rem; margin-to
   <br/>
 
 ## 📊 Github stats
-<br/>
 
 <details>
 <br/>
