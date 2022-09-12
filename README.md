@@ -2,15 +2,12 @@
 
 
 <div align="center">
-  <h1><p>Hi there! 👋</p> I am <b>Oskar 🤠<b></h1>
+  <h1>Hello there! 👋</h1>
 <br/>
 
 </div>
 
 
-- 🔭 I’m currently working on <b>getting better at coding</b>
-
-- 🌱 I’m currently learning <b>React Native</b>
 
 - 💬 Ask me about <b>Web development. I hope I can help you 😄 </b>
 
@@ -165,16 +162,27 @@ https://getbootstrap.com/"  target="_blank"  style="margin-right:3rem; margin-to
 
   <br/>
 
-<h3 align="center"  style="margin:2rem auto;">My github <b>stats</b> : </h3>
+## 📊 Github stats
 <br/>
-<div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical"  target="_blank" >
-<img src="https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical"  alt="LordPrinz GitHub stats"/>
-</a>
+<details>
 <br/>
- <br/>
-<a  href="https://github.com/anuraghazra/github-readme-stat"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical"  alt="Top Langs"  style=" margin-top:1rem;"/>
-</a>
-</div>
+<summary>💻 GitHub Profile Stats</summary>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical)](https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical)
+
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical)
+</details>
+
+</details>
+
+<details open>
+<br/>
+
+<summary>⚡ Recent GitHub Activity</summary>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LordPrinz&bg_color=1f222e&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
