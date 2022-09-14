@@ -56,6 +56,10 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png"  alt="PHP"  width="55"  height="35"  />
 </a>
 
+<a  href="https://www.java.com/pl/"  target="_blank"  style="margin-right:3rem; text-decoration:none; margin-top:3rem;">
+<img  src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"  alt="css3"  width="70"  height="40"  />
+</a>
+
 
 ### 🧰 Frameworks and libraries
 
@@ -156,6 +160,11 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 
 <a  href="https://www.postman.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"  alt="Postman"  width="40"  height="40"  />
+</a>
+
+
+<a  href="https://webpack.js.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+<img  src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"  alt="Webpack"  width="40"  height="40"  />
 </a>
 
 <a  href="https://www.adobe.com/pl/products/premiere.html"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
