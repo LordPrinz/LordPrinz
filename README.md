@@ -64,7 +64,7 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 </a>
 
 <a  href="https://nextjs.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"  alt="Next.js"  width="55"  height="35"  />
+<img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"  alt="Next.js"  width="55"  height="35"  />
 </a>
 
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
