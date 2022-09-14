@@ -68,7 +68,7 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 </a>
 
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="[[https://svgur.com/i/931.svg](https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png)](https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png)"  alt="express"  width="40"  height="40"  />
+<img  src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express"  width="40"  height="40"  />
 </a> 
 
 <a  href="https://tailwindcss.com/"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
