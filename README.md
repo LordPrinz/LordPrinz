@@ -2,19 +2,27 @@
 
 
 <div align="center">
-  <h1>Hello there! 👋</h1>
+  <h3>Hello there! 👋</h3>
 <br/>
 
+<a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
+<img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25"  height="25"/>
+</a>
+
+<a  href="https://www.linkedin.com/in/oskar-p%C5%82azi%C5%84ski-1375a6243/"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="discord"  width="25"  height="25"/>
+</a>
+
+<a  href="https://www.facebook.com/profile.php?id=100008667137923"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
+<img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="discord"  width="28"  height="28"/>
+</a>
+
+<a  href="https://www.facebook.com/profile.php?id=100008667137923"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
+<img src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png
+" alt="discord"  width="30"  height="30"/>
+</a>
+
 </div>
-
-
-
-- 💬 Ask me about <b>Web development. I hope I can help you 😄 </b>
-
-- 📫 How to reach me: <b>Simply text me on <a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25"  height="25"/>
-</a></b>
-
 
 ## 🔥 Streak stats
 
