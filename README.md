@@ -18,7 +18,7 @@
 </a>
  &nbsp;&nbsp;
 <a  href="https://www.facebook.com/profile.php?id=100008667137923"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-<img src="https://i.pinimg.com/originals/72/9f/77/729f7798561be2cb67f39e916a22eb6a.png" alt="instagram"  width="45"  height="45"/>
+<img src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="instagram"  width="45"  height="45"/>
 </a>
 
 </div>
