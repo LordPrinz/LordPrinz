@@ -51,13 +51,12 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 <img  src="https://dartpad.dev/pictures/logo_dart.png"  alt="Dart"  width="40"  height="40"  />
 </a>
 
+<a  href="https://simple.wikipedia.org/wiki/C_%28programming_language%29"  target="_blank"  style="margin-right:3rem; text-decoration:none; margin-top:3rem;">
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"  alt="css3"  width="40"  height="40"  />
+</a>
 
 <a  href="https://www.php.net/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png"  alt="PHP"  width="55"  height="35"  />
-</a>
-
-<a  href="https://www.java.com/pl/"  target="_blank"  style="margin-right:3rem; text-decoration:none; margin-top:3rem;">
-<img  src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"  alt="css3"  width="70"  height="40"  />
 </a>
 
 
@@ -72,7 +71,7 @@ Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25
 </a>
 
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express"  width="40"  height="40"  />
+<img  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express"  width="120"  height="40"  />
 </a> 
 
 <a  href="https://tailwindcss.com/"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
