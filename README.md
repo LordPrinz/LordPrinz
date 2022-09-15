@@ -15,7 +15,17 @@
 Discord <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="25"  height="25"/>
 </a></b>
 
- <br>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=LordPrinz&theme=monokai-metallian&hide_border=true"/>
+  </a>
+
+<br>
+<br>
   
 ## 🛠️ My Tools
 
