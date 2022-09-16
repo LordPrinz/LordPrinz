@@ -6,19 +6,19 @@
 <br/>
 
 <a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-<img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="45"  height="45"/>
+<img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="40"  height="40"/>
 </a>
  &nbsp;&nbsp;
 <a  href="https://www.linkedin.com/in/oskar-p%C5%82azi%C5%84ski-1375a6243/"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"  width="45"  height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"  width="40"  height="40"/>
 </a>
  &nbsp;&nbsp;
 <a  href="https://www.facebook.com/profile.php?id=100008667137923"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-<img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="fb"  width="50"  height="50"/>
+<img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" alt="fb"  width="45"  height="45"/>
 </a>
  &nbsp;&nbsp;
 <a  href="https://www.facebook.com/profile.php?id=100008667137923"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-<img src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="instagram"  width="45"  height="45"/>
+<img src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="instagram"  width="40"  height="40"/>
 </a>
 
 </div>
