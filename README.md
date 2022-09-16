@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3>Hello there! 👋</h3>
+  <h2>Hello there! 👋</h2>
 <br/>
 
 <a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
