@@ -205,7 +205,6 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical)](https://github-readme-stats.vercel.app/api?username=LordPrinz&theme=radical)
 
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical)
-</details>
 
 </details>
 
