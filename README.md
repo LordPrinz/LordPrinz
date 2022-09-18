@@ -78,6 +78,9 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png"  alt="PHP"  width="55"  height="35"  />
 </a>
 
+<a  href="https://www.java.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+<img  src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"  alt="Java"  width="40"  height="40"  />
+</a>
 
 ### 🧰 Frameworks and libraries
 
