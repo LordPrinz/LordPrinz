@@ -221,7 +221,7 @@
 <summary>🧮 Github Profile Counter</summary>
   <a href="https://profile-counter.glitch.me/LordPrinz/count.svg"><img alt="LordPrinz's Profile Counter" src="https://profile-counter.glitch.me/LordPrinz/count.svg"/></a>
 
-<details/>
+</details>
   
 <details open>
 <br/>
