@@ -228,6 +228,6 @@
 
 <summary>⚡ Recent GitHub Activity</summary>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LordPrinz&bg_color=1f222e&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://ashutosh00710.github.io/github-readme-activity-graph?username=LordPrinz&bg_color=1f222e&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </details>
