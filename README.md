@@ -6,6 +6,7 @@
 <br/>
 
   I am <b>Oskar</b>, passionate Full-Stack developer. 
+  Happy New Year! 🎆
   
 <a  href="https://discord.com/users/520676533279522817"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
 <img src="https://psi.5v.pl/images/discord.png" alt="discord"  width="40"  height="40"/>
