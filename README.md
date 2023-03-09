@@ -158,7 +158,7 @@
 </a>
   
 <a  href="https://firebase.google.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://www.gstatic.com/devrel-devsite/prod/v4b49895941ba1dd2df68fee10a0f3d4e3a71c73f4e3e8932eba1481cb318e8c2/firebase/images/touchicon-180.png"  alt="Firebase"  width="40"  height="40"  />
+<img  src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png"  alt="Firebase"  width="40"  height="40"  />
 </a>
 
 <a  href="https://www.heroku.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
