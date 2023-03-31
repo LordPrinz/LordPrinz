@@ -20,7 +20,7 @@
 </a>
  &nbsp;&nbsp;
 <a  href="https://www.instagram.com/oskars_music/"  target="_blank"  style="margin-right:3rem; margin-top:6rem; text-decoration:none;">
-<img src="https://studiokalisz.pl/wp-content/uploads/2018/11/instagram-logo-png-transparent-background-1.png" alt="instagram"  width="40"  height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="instagram"  width="40"  height="40"/>
 </a>
 
 </div>
