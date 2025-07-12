@@ -106,29 +106,16 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png"  alt="Electron"  width="40"  height="40"  />
 </a>
 
-<a  href="https://redux.js.org"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"  />
-</a>
-
-
-<a  href="https://material-ui.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://mui.com/static/logo.png"  alt="Material UI"  width="40"  height="40"  />
-</a>
 <a  href="https://reactnative.dev/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="React Native"  width="40"  height="40"  />
-</a>
-
-<a  href="https://reactrouter.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://iconape.com/wp-content/png_logo_vector/react-router.png"  alt="react router"  width="40"  height="40"  />
 </a>
 
 <a  href="https://sass-lang.com/"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  alt="sass"  width="40"  height="40"  />
 </a>
 
-
 <a  href="https://jestjs.io"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"  alt="jest"  width="40"  height="40"  />
+<img  src="https://github.com/user-attachments/assets/a58643e4-216d-43fd-a47f-10f0c95567d1"  alt="jest"  width="40"  height="40"  />
 </a>
 
 
@@ -155,10 +142,13 @@
 <img  src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png"  alt="Firebase"  width="40"  height="40"  />
 </a>
 
-<a  href="https://www.heroku.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://img.stackshare.io/stack/144/thumb_retina_1a0f3cfe2bda0324ac9f22966c04b2803a0af8eb.png"  alt="Heroku"  width="40"  height="40"  />
+<a  href="https://netlify.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+<img  src="https://github.com/user-attachments/assets/7bb22f9c-7b67-4b70-8ad3-7e1d4a431704"  alt="Netlify"  width="40"  height="40"  />
 </a>
 
+<a  href="https://vercel.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+<img src="https://github.com/user-attachments/assets/53553655-2666-4e8b-b1a9-c95c11baf31f" alt="Vercel"  width="40"  height="40"  />
+</a>
 
 ### 💻 Software and tools
 
@@ -170,7 +160,6 @@
 <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"  />
 </a>
 
-
 <a  href="https://www.adobe.com/pl/products/xd.html"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"  alt="Adobe Xd"  width="40"  height="40"  />
 </a>
@@ -178,17 +167,13 @@
 <a  href="https://www.adobe.com/pl/products/photoshop.html"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"  alt="Adobe Photoshop"  width="40"  height="40"  />
 </a>
+
 <a  href="https://www.adobe.com/pl/products/illustrator.html"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"  alt="Adobe Illustrator"  width="40"  height="40"  />
 </a>
 
 <a  href="https://www.postman.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
 <img  src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"  alt="Postman"  width="40"  height="40"  />
-</a>
-
-
-<a  href="https://webpack.js.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"  alt="Webpack"  width="40"  height="40"  />
 </a>
 
 <a  href="https://www.adobe.com/pl/products/premiere.html"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
