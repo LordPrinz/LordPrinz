@@ -1,6 +1,7 @@
 
 
 
+
 <div align="center">
   <h1>Hello there! 👋</h1>
 <br/>
@@ -55,31 +56,32 @@
 </a>
 
 <a  href="https://nodejs.org/en/"  target="_blank"  style="margin-right:3rem; text-decoration:none;">
-<img  src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  alt="node.js"  width="40"  height="40"  />
+<img  src="https://github.com/user-attachments/assets/d7482dd9-f3da-4766-830e-925562d6e925" alt="node.js"  width="40"  height="40"  />
 </a>
 
+
 <a  href="https://isocpp.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png"  alt="C++"  width="40"  height="40"  />
+<img  src="https://github.com/user-attachments/assets/86c54cde-5d4f-49de-a5b4-54a64cf80599" alt="C++"  width="40"  height="40"  />
 </a>
 
 <a  href="https://www.python.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"  alt="Python"  width="40"  height="40"  />
+<img  src="https://github.com/user-attachments/assets/4a1c587c-cf76-42cc-ad13-086af944946b"  alt="Python"  width="40"  height="40"  />
 </a>
 
 <a  href="https://dart.dev/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://dartpad.dev/pictures/logo_dart.png"  alt="Dart"  width="40"  height="40"  />
+<img  src="https://github.com/user-attachments/assets/1a53c824-8aa5-4daf-9b96-f0716a65d845"  alt="Dart"  width="40"  height="40"  />
 </a>
 
 <a  href="https://simple.wikipedia.org/wiki/C_%28programming_language%29"  target="_blank"  style="margin-right:3rem; text-decoration:none; margin-top:3rem;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"  alt="css3"  width="40"  height="40"  />
+<img  src="https://github.com/user-attachments/assets/009ce3de-99f5-46f5-ab22-a6e9417183d5"  alt="c"  width="40"  height="40"  />
 </a>
 
 <a  href="https://www.php.net/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/200px-Webysther_20160423_-_Elephpant.svg.png"  alt="PHP"  width="55"  height="35"  />
+<img  src="https://github.com/user-attachments/assets/817269b8-a570-4890-a736-97d5089aa478"  alt="PHP"  width="55"  height="35"  />
 </a>
 
 <a  href="https://www.java.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"  alt="Java"  width="40"  height="40"  />
+<img src="https://github.com/user-attachments/assets/6544657c-400a-4b60-9ddd-898a965c06d6"  alt="Java"  width="40"  height="40"  />
 </a>
 
 ### 🧰 Frameworks and libraries
@@ -89,7 +91,7 @@
 </a>
 
 <a  href="https://nextjs.org/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"  alt="Next.js"  width="40"  height="40"  />
+<img src="https://github.com/user-attachments/assets/141a690b-726c-4457-8a6e-f549b56a43c0"  alt="Next.js"  width="40"  height="40"  />
 </a>
 
 <a  href="https://expressjs.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
@@ -216,12 +218,6 @@
  
 </details>
 
-<details>
-<br/>
-<summary>🧮 Github Profile Counter</summary>
-  <a href="https://profile-counter.glitch.me/LordPrinz/count.svg"><img alt="LordPrinz's Profile Counter" src="https://profile-counter.glitch.me/LordPrinz/count.svg"  width="846"/></a>
-
-</details>
   
 <details open>
 <br/>
