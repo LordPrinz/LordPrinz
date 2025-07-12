@@ -131,14 +131,6 @@
 <img  src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"  alt="jest"  width="40"  height="40"  />
 </a>
 
-<a  href="https://angular.io/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"  alt="Angular"  width="40"  height="40"  />
-</a>
-
-<a  href="https://getbootstrap.com/"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"  alt="Bootstrap"  width="40"  height="40"  />
-</a>
-
 
 
 ### 🗄️ Databases and cloud hosting
