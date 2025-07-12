@@ -180,6 +180,10 @@
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/512px-Adobe_Premiere_Pro_Logo.svg.png"  alt="Adobe Premiere Pro"  width="40"  height="40"  />
 </a>
 
+<a  href="https://jetbrains.com"  target="_blank"  style="margin-right:3rem; margin-top:3rem; text-decoration:none;">
+<img src="https://github.com/user-attachments/assets/f73d662e-755b-49de-9756-a6f332474a02"  alt="Jetbrains workflow"  width="40"  height="40"  />
+</a>
+
 <br>
 <br>
 
