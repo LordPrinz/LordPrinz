@@ -30,8 +30,9 @@
 
 <p align="center">
   
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LordPrinz&theme=radical)
-
+  <a href="https://github-readme-stats-fast.vercel.app/api/streak?username=LordPrinz&theme=radical">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=LordPrinz&theme=radical"/>
+  </a>
 <br>
 <br>
   
