@@ -28,11 +28,8 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=LordPrinz&theme=monokai-metallian&hide_border=true"/>
-  </a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LordPrinz&theme=radical)
 
 <br>
 <br>
@@ -194,9 +191,9 @@
 <br/>
 <summary>💻 GitHub Profile Stats</summary>
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LordPrinz's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LordPrinz&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LordPrinz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordPrinz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/></a>
- 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LordPrinz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LordPrinz&layout=compact&theme=radical)
+
 </details>
 
   
