@@ -10,24 +10,23 @@
 <br>
 
 <a href="https://discord.com/users/520676533279522817">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="35"/>
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="35"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/oskar-p%C5%82azi%C5%84ski-1375a6243/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="35"/>
+<a href="https://www.linkedin.com/in/oskar-p%C5%82azi%C5%84ski-1375a6243">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.facebook.com/profile.php?id=100008667137923">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="35"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="35"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.instagram.com/oskars_music/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="35"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="35"/>
 </a>
-
 </div>
 
 ---
